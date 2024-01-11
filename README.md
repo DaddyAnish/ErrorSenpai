@@ -1,6 +1,6 @@
 # **About Me**
 ##### Hello my real name is ANISH.
-##### I am software engineering undergrade.
+##### I am an Software Engineering Undergrade.
 ##### I love to write codes and learning new languages.
 ##### Learning Machine Learning and Artificial Inteligence.
 ##### Python, C/C++, Java, JavaScript, R, Rust are some of the launguages i am learning.
